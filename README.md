@@ -1,5 +1,10 @@
 # bigip-vsphere
 
+## Overview
+
+Terraform plan to deploy a Big-IP OVF into an on-premises VMware environment. 
+
+
 ## Usage
 
 * Modify the `terraform.tfvars` with your endpoint credentials
